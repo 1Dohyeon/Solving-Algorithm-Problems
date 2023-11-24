@@ -14,11 +14,3 @@
 - 프로그래머스 : <a href="https://github.com/1Dohyeon/Study-Algorithms/tree/main/programmers">programmers</a>
 - 리트코드 : <a href="https://github.com/1Dohyeon/Study-Algorithms/tree/main/leetcode/java">leetcode</a>
 <br>
-
->  코딩테스트X, 알고리즘 기본 이론 정리해둔 곳
-- <a href="https://github.com/1Dohyeon/Study-Algorithms/tree/main/algorithmic_theory">algorithmic_theory</a>
-<br>
-
->  사이트 구분 없이 풀고, 분류 없이 코드 모아둔 곳
-- <a href="https://github.com/1Dohyeon/Study-Algorithms/tree/main/whatever">whatever</a>
-<br>
