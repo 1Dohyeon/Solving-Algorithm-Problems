@@ -2,8 +2,11 @@
  * @return {Function}
  */
 var createHelloWorld = function () {
+  const result = "Hello World";
+  console.log(result);
+
   return function (...args) {
-    return "Hello World";
+    return result;
   };
 };
 
