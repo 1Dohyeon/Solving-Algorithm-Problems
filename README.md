@@ -1,4 +1,4 @@
-# Study-Algorithms
+# Study-CodingTest
 
 ## Folder
 
